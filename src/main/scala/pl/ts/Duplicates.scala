@@ -8,7 +8,7 @@ object Duplicates {
   /**
    *
    * important: Function detect and remove ALL duplicated elements.
-   * It means that output doesn't contains any element duplicated in input.
+   * It means that output doesn't contain any element duplicated in input.
    * Uniqueness is determined by object identity.
    *
    * example:

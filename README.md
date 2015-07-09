@@ -12,8 +12,5 @@ class Person {
 }
 ```
 
-You can check contest bye-laws [here](http://tech.viacom.com/warsawsdc/confitura2015/Regulamin_konkurs_Viacom_programmer_adventure_2015.pdf).
-
-Check out our Confitura 2015 site [here](http://tech.viacom.com/warsawsdc/confitura2015/)
-
-We are hiring! Visit our [career site](http://tech.viacom.com/careers/).
+## Solution
+See comments at [Duplicates.scala](src/main/scala/pl/ts/Duplicates.scala)
